@@ -1,0 +1,1 @@
+This is a sample file for the .www.kit-graphik.com extension

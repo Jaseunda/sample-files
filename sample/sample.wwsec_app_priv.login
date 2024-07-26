@@ -1,0 +1,1 @@
+This is a sample file for the .wwsec_app_priv.login extension

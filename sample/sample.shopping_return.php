@@ -1,0 +1,1 @@
+This is a sample file for the .shopping_return.php extension

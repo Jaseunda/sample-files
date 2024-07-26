@@ -1,0 +1,1 @@
+This is a sample file for the .sts.php extension

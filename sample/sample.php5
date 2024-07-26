@@ -1,0 +1,1 @@
+This is a sample file for the .php5 extension

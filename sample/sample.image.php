@@ -1,0 +1,1 @@
+This is a sample file for the .image.php extension

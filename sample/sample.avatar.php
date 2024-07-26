@@ -1,0 +1,1 @@
+This is a sample file for the .avatar.php extension

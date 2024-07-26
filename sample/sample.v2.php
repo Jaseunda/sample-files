@@ -1,0 +1,1 @@
+This is a sample file for the .v2.php extension
