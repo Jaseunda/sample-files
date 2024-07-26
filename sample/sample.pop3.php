@@ -1,1 +1,0 @@
-This is a sample file for the .pop3.php extension

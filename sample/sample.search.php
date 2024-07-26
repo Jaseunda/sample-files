@@ -1,1 +1,0 @@
-This is a sample file for the .search.php extension

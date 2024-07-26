@@ -1,1 +1,0 @@
-This is a sample file for the .glasner.ru extension

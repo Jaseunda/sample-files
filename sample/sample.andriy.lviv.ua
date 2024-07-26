@@ -1,1 +1,0 @@
-This is a sample file for the .andriy.lviv.ua extension

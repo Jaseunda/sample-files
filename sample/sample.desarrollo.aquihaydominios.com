@@ -1,1 +1,0 @@
-This is a sample file for the .desarrollo.aquihaydominios.com extension

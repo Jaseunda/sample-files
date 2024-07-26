@@ -1,1 +1,0 @@
-This is a sample file for the .display.php extension

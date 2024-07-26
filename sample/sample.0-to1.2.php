@@ -1,1 +1,0 @@
-This is a sample file for the .0-to1.2.php extension

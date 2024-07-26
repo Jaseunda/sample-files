@@ -1,1 +1,0 @@
-This is a sample file for the .basicmap.php extension

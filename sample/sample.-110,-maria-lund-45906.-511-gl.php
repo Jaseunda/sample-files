@@ -1,1 +1,0 @@
-This is a sample file for the .-110,-maria-lund-45906.-511-gl.php extension
